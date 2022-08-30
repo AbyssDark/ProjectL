@@ -1,5 +1,5 @@
 # ProjectL
-A private Project with 5 people
+
 How to setup for run
 
 1: Install Nodejs at https://nodejs.org/en/
